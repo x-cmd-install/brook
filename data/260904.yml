@@ -7,7 +7,7 @@ about:
   head: 5cd13ef
   archived: false
   latestVersion: v20260101.0
-  collectedAt: 2026-09-04T19:25:34Z
+  collectedAt: 2026-09-04T21:07:13Z
 timeline:
   created: 2017-03-18
   lastCommit: 2026-02-24
@@ -81,6 +81,44 @@ total:
   openIssue: 21
   commit: 864
 ---
+path: /home/runner/.x-repo/github.com/txthinking/brook
+collectedAt: 2026-09-04T21:07:15Z
+loc:
+  Go:
+    code: 9117
+    comments: 792
+    blanks: 483
+    files: 63
+  Css:
+    code: 336
+    comments: 1
+    blanks: 2
+    files: 2
+  Json:
+    code: 227
+    comments: 0
+    blanks: 0
+    files: 2
+  Html:
+    code: 123
+    comments: 0
+    blanks: 5
+    files: 1
+  JavaScript:
+    code: 92
+    comments: 12
+    blanks: 12
+    files: 8
+  Markdown:
+    code: 0
+    comments: 348
+    blanks: 131
+    files: 23
+total:
+  code: 9961
+  comments: 1154
+  blanks: 633
+  files: 99
 ---
 date: "2026-08-24"
 repo:
