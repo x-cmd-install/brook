@@ -5,13 +5,13 @@ about:
   head: 5cd13ef
   archived: false
   latestVersion: "v20260101.0"
-  collectedAt: 2026-09-07T04:22:09Z
+  collectedAt: 2026-09-07T20:00:14Z
 timeline:
   created: 2017-03-18
   lastCommit: 2026-02-24
   lastRelease: 2025-12-31
 popularity:
-  star: 15170
+  star: 15172
   watcher: 460
   fork: 2375
   release: 55
@@ -80,7 +80,7 @@ total:
   commit: 864
 ---
 path: /home/runner/.x-repo/github.com/txthinking/brook
-collectedAt: 2026-09-07T04:22:16Z
+collectedAt: 2026-09-07T20:00:19Z
 loc:
   Go:
     code: 9117
@@ -212,7 +212,7 @@ checks:
       - 'Warn: release artifact v20230606 does not have provenance: https://api.github.com/repos/txthinking/brook/releases/104996382'
 ---
 eget:
-  collectedAt: 2026-09-07T04:22:17+00:00
+  collectedAt: 2026-09-07T20:00:19+00:00
   platform:
     darwin/arm64:
       name:  brook_darwin_arm64
