@@ -7,7 +7,7 @@ A cross-platform programmable network tool
 - **Latest release**: `v20260101.0` (2025-12-31)
 - **Last commit**: 2026-02-24
 - **License**: GPL-3.0
-- **Stars**: 15171 · **Forks**: 2373 · **Open issues**: 1005 · **Contributors**: 16
+- **Stars**: 15174 · **Forks**: 2373 · **Open issues**: 1005 · **Contributors**: 16
 
 ## Installation
 
@@ -21,4 +21,4 @@ See <https://x-cmd.com/install/brook> for details.
 
 This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260909.yml`. Merged card+release view: `data/latest.report.yml`.
 
-_Last regenerated: 2026-09-09T04:29:19Z._
+_Last regenerated: 2026-09-09T18:40:11Z._
