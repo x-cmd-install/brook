@@ -7,7 +7,7 @@ about:
   latestVersion: "v20260101.0"
   latestRelease: "v20260101.0"
   latestPrerelease: "v20210616"
-  collectedAt: 2026-09-09T04:28:59Z
+  collectedAt: 2026-09-09T18:39:48Z
 timeline:
   created: 2017-03-18
   lastCommit: 2026-02-24
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2025-12-31
   lastPrerelease: 2021-06-16
 popularity:
-  star: 15171
+  star: 15174
   watcher: 460
   fork: 2373
   release: 55
@@ -84,7 +84,7 @@ total:
   commit: 864
 ---
 path: /home/runner/.x-repo/github.com/txthinking/brook
-collectedAt: 2026-09-09T04:29:06Z
+collectedAt: 2026-09-09T18:40:00Z
 loc:
   Go:
     code: 9117
@@ -122,35 +122,27 @@ total:
   blanks: 633
   files: 99
 ---
-date: "2026-08-24"
+date: "2026-09-07"
 repo:
   name: github.com/txthinking/brook
   commit: 5cd13ef3b1fb574e88ebf2c1b5d95f2ebe1342c8
 scorecard:
-  version: v5.5.1-0.20260815060127-d1fab88f5463
-  commit: d1fab88f54636ff366076edfc5c239f97b3c8e66
+  version: v5.5.0
+  commit: c395761df6afe1a69e476bc60a013a94bcbc153f
 score: 4.1
 checks:
-  - name: Dangerous-Workflow
-    score: 10
-    reason: no dangerous workflow patterns detected
+  - name: Code-Review
+    score: 0
+    reason: Found 0/24 approved changesets -- score normalized to 0
     details: null
   - name: Packaging
     score: -1
     reason: packaging workflow not detected
     details:
       - 'Warn: no GitHub/GitLab publishing workflow detected.'
-  - name: Security-Policy
+  - name: Dangerous-Workflow
     score: 10
-    reason: security policy file detected
-    details:
-      - 'Info: security policy file detected: SECURITY.md:1'
-      - 'Info: Found linked content: SECURITY.md:1'
-      - 'Info: Found disclosure, vulnerability, and/or timelines in security policy: SECURITY.md:1'
-      - 'Info: Found text in security policy: SECURITY.md:1'
-  - name: Code-Review
-    score: 0
-    reason: Found 0/24 approved changesets -- score normalized to 0
+    reason: no dangerous workflow patterns detected
     details: null
   - name: Token-Permissions
     score: 10
@@ -160,8 +152,16 @@ checks:
       - 'Info: no jobLevel write permissions found'
   - name: Maintained
     score: 0
-    reason: 0 commit(s) and 1 issue activity found in the last 90 days -- score normalized to 0
+    reason: 0 commit(s) and 0 issue activity found in the last 90 days -- score normalized to 0
     details: null
+  - name: Security-Policy
+    score: 10
+    reason: security policy file detected
+    details:
+      - 'Info: security policy file detected: SECURITY.md:1'
+      - 'Info: Found linked content: SECURITY.md:1'
+      - 'Info: Found disclosure, vulnerability, and/or timelines in security policy: SECURITY.md:1'
+      - 'Info: Found text in security policy: SECURITY.md:1'
   - name: Binary-Artifacts
     score: 10
     reason: no binaries found in the repo
