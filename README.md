@@ -23,11 +23,47 @@ x install brook
 - **Latest**: `v20260101.0` (2025-12-31)
 - **Last commit**: 2026-02-24
 - **Assets in release**: 32
-- **Published**: 2025-12-31T08:04:28Z
+
+## Release assets
+
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [Brook.apk](https://github.com/txthinking/brook/releases/download/v20260101.0/Brook.apk) | 210.1 MiB | `other` |
+| [Brook.bin](https://github.com/txthinking/brook/releases/download/v20260101.0/Brook.bin) | 118.0 MiB | `other` |
+| [Brook.msix](https://github.com/txthinking/brook/releases/download/v20260101.0/Brook.msix) | 96.2 MiB | `other` |
+| [brook.openwrt_linux_amd64](https://github.com/txthinking/brook/releases/download/v20260101.0/brook.openwrt_linux_amd64) | 27.8 MiB | `native/linux/x64` |
+| [brook.openwrt_linux_arm64](https://github.com/txthinking/brook/releases/download/v20260101.0/brook.openwrt_linux_arm64) | 26.9 MiB | `native/linux/arm64` |
+| [brook_darwin_amd64](https://github.com/txthinking/brook/releases/download/v20260101.0/brook_darwin_amd64) | 29.7 MiB | `native/darwin/x64` |
+| [brook_darwin_arm64](https://github.com/txthinking/brook/releases/download/v20260101.0/brook_darwin_arm64) | 28.7 MiB | `native/darwin/arm64` |
+| [brook_freebsd_amd64](https://github.com/txthinking/brook/releases/download/v20260101.0/brook_freebsd_amd64) | 28.9 MiB | `other` |
+| [brook_freebsd_arm64](https://github.com/txthinking/brook/releases/download/v20260101.0/brook_freebsd_arm64) | 27.8 MiB | `other` |
+| [brook_linux_386](https://github.com/txthinking/brook/releases/download/v20260101.0/brook_linux_386) | 27.6 MiB | `other` |
+| [brook_linux_amd64](https://github.com/txthinking/brook/releases/download/v20260101.0/brook_linux_amd64) | 29.9 MiB | `native/linux/x64` |
+| [brook_linux_arm5](https://github.com/txthinking/brook/releases/download/v20260101.0/brook_linux_arm5) | 27.6 MiB | `native/linux/arm` |
+| [brook_linux_arm6](https://github.com/txthinking/brook/releases/download/v20260101.0/brook_linux_arm6) | 27.4 MiB | `native/linux/arm` |
+| [brook_linux_arm64](https://github.com/txthinking/brook/releases/download/v20260101.0/brook_linux_arm64) | 27.9 MiB | `native/linux/arm64` |
+| [brook_linux_arm7](https://github.com/txthinking/brook/releases/download/v20260101.0/brook_linux_arm7) | 27.4 MiB | `native/linux/arm` |
+| [brook_linux_mips](https://github.com/txthinking/brook/releases/download/v20260101.0/brook_linux_mips) | 31.3 MiB | `other` |
+| [brook_linux_mips64](https://github.com/txthinking/brook/releases/download/v20260101.0/brook_linux_mips64) | 31.8 MiB | `other` |
+| [brook_linux_mips64le](https://github.com/txthinking/brook/releases/download/v20260101.0/brook_linux_mips64le) | 31.3 MiB | `other` |
+| [brook_linux_mips64le_softfloat](https://github.com/txthinking/brook/releases/download/v20260101.0/brook_linux_mips64le_softfloat) | 31.3 MiB | `other` |
+| [brook_linux_mips64_softfloat](https://github.com/txthinking/brook/releases/download/v20260101.0/brook_linux_mips64_softfloat) | 31.8 MiB | `other` |
+| [brook_linux_mipsle](https://github.com/txthinking/brook/releases/download/v20260101.0/brook_linux_mipsle) | 30.8 MiB | `other` |
+| [brook_linux_mipsle_softfloat](https://github.com/txthinking/brook/releases/download/v20260101.0/brook_linux_mipsle_softfloat) | 30.8 MiB | `other` |
+| [brook_linux_mips_softfloat](https://github.com/txthinking/brook/releases/download/v20260101.0/brook_linux_mips_softfloat) | 31.3 MiB | `other` |
+| [brook_linux_ppc64](https://github.com/txthinking/brook/releases/download/v20260101.0/brook_linux_ppc64) | 28.9 MiB | `other` |
+| [brook_linux_ppc64le](https://github.com/txthinking/brook/releases/download/v20260101.0/brook_linux_ppc64le) | 28.6 MiB | `other` |
+| [brook_netbsd_amd64](https://github.com/txthinking/brook/releases/download/v20260101.0/brook_netbsd_amd64) | 28.9 MiB | `other` |
+| [brook_netbsd_arm64](https://github.com/txthinking/brook/releases/download/v20260101.0/brook_netbsd_arm64) | 27.8 MiB | `other` |
+| [brook_openbsd_amd64](https://github.com/txthinking/brook/releases/download/v20260101.0/brook_openbsd_amd64) | 28.9 MiB | `other` |
+| [brook_openbsd_arm64](https://github.com/txthinking/brook/releases/download/v20260101.0/brook_openbsd_arm64) | 27.8 MiB | `other` |
+| [brook_windows_386.exe](https://github.com/txthinking/brook/releases/download/v20260101.0/brook_windows_386.exe) | 28.1 MiB | `native/win/x64` |
+| [brook_windows_amd64.exe](https://github.com/txthinking/brook/releases/download/v20260101.0/brook_windows_amd64.exe) | 29.6 MiB | `native/win/x64` |
+| [brook_windows_arm64.exe](https://github.com/txthinking/brook/releases/download/v20260101.0/brook_windows_arm64.exe) | 28.1 MiB | `native/win/arm64` |
 
 ## Popularity
 
-- **Stars**: 15,174 · **Forks**: 2,373 · **Open issues**: 1,005 · **Contributors**: 16
+- **Stars**: 15,175 · **Forks**: 2,373 · **Open issues**: 1,005 · **Contributors**: 16
 
 ## Totals (cumulative)
 
@@ -68,8 +104,8 @@ Lowest-scoring checks:
 Install metadata for brook lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `brook` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/brook.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/brook.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T04:26:16Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T16:13:02Z._
