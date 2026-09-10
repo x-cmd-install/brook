@@ -7,7 +7,7 @@ about:
   latestVersion: "v20260101.0"
   latestRelease: "v20260101.0"
   latestPrerelease: "v20210616"
-  collectedAt: 2026-09-10T04:26:03Z
+  collectedAt: 2026-09-10T16:12:51Z
 timeline:
   created: 2017-03-18
   lastCommit: 2026-02-24
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2025-12-31
   lastPrerelease: 2021-06-16
 popularity:
-  star: 15174
+  star: 15175
   watcher: 460
   fork: 2373
   release: 55
@@ -84,7 +84,7 @@ total:
   commit: 864
 ---
 path: /home/runner/.x-repo/github.com/txthinking/brook
-collectedAt: 2026-09-10T04:26:11Z
+collectedAt: 2026-09-10T16:12:58Z
 loc:
   Go:
     code: 9117
