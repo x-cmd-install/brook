@@ -1,0 +1,160 @@
+- repo: nix_stable_24_11
+  srcname: brook
+  visiblename: brook
+  version: "20240606"
+  origversion: null
+  status: outdated
+  summary: Cross-platform Proxy/VPN software
+  maintainers:
+    - xrelkd@github
+  licenses:
+    - GPL-3.0-only
+- repo: nix_stable_25_05
+  srcname: brook
+  visiblename: brook
+  version: "20240606"
+  origversion: null
+  status: outdated
+  summary: Cross-platform Proxy/VPN software
+  maintainers:
+    - xrelkd@github
+  licenses:
+    - GPL-3.0-only
+- repo: nix_stable_24_05
+  srcname: brook
+  visiblename: brook
+  version: "20240606"
+  origversion: null
+  status: outdated
+  summary: A cross-platform Proxy/VPN software
+  maintainers:
+    - xrelkd@github
+  licenses:
+    - GPL-3.0-only
+- repo: nix_stable_25_11
+  srcname: brook
+  visiblename: brook
+  version: "20240606"
+  origversion: null
+  status: outdated
+  summary: Cross-platform Proxy/VPN software
+  maintainers:
+    - xrelkd@github
+  licenses:
+    - GPL-3.0-only
+- repo: arch
+  subrepo: extra
+  srcname: brook
+  binname: brook
+  visiblename: brook
+  version: "20260101.0"
+  origversion: 20260101.0-1
+  status: newest
+  summary: A cross-platform proxy/vpn software
+  licenses:
+    - GPL-3.0-only
+- repo: homebrew
+  srcname: brook
+  visiblename: brook
+  version: "20260101"
+  origversion: null
+  status: newest
+  summary: Cross-platform strong encryption and not detectable proxy. Zero-Configuration
+- repo: homebrew
+  srcname: brook
+  visiblename: brook
+  version: HEAD
+  origversion: null
+  status: rolling
+  summary: Cross-platform strong encryption and not detectable proxy. Zero-Configuration
+- repo: macports
+  srcname: net/brook
+  binname: brook
+  visiblename: brook
+  version: "20260101.0"
+  origversion: null
+  status: newest
+  summary: A cross-platform proxy/vpn software
+  maintainers:
+    - judaew@macports
+    - judaew@github
+  licenses:
+    - GPL-3
+  categories:
+    - net
+- repo: manjaro_stable
+  subrepo: extra
+  srcname: brook
+  binname: brook
+  visiblename: brook
+  version: "20260101.0"
+  origversion: 20260101.0-1
+  status: newest
+  summary: A cross-platform proxy/vpn software
+  licenses:
+    - GPL-3.0-only
+- repo: manjaro_testing
+  subrepo: extra
+  srcname: brook
+  binname: brook
+  visiblename: brook
+  version: "20260101.0"
+  origversion: 20260101.0-1
+  status: newest
+  summary: A cross-platform proxy/vpn software
+  licenses:
+    - GPL-3.0-only
+- repo: manjaro_unstable
+  subrepo: extra
+  srcname: brook
+  binname: brook
+  visiblename: brook
+  version: "20260101.0"
+  origversion: 20260101.0-1
+  status: newest
+  summary: A cross-platform proxy/vpn software
+  licenses:
+    - GPL-3.0-only
+- repo: nix_stable_26_05
+  srcname: brook
+  visiblename: brook
+  version: "20240606"
+  origversion: null
+  status: outdated
+  summary: Cross-platform Proxy/VPN software
+  maintainers:
+    - xrelkd@github
+  licenses:
+    - GPL-3.0-only
+- repo: nix_unstable
+  srcname: brook
+  visiblename: brook
+  version: "20240606"
+  origversion: null
+  status: outdated
+  summary: Cross-platform Proxy/VPN software
+  maintainers:
+    - xrelkd@github
+  licenses:
+    - GPL-3.0-only
+- repo: parabola
+  subrepo: extra
+  srcname: brook
+  binname: brook
+  visiblename: brook
+  version: "20260101.0"
+  origversion: 20260101.0-1
+  status: newest
+  summary: A cross-platform proxy/vpn software
+  licenses:
+    - GPL-3.0-only
+- repo: termux
+  srcname: brook
+  binname: brook
+  visiblename: brook
+  version: "20260101.0"
+  origversion: null
+  status: newest
+  summary: A cross-platform strong encryption and not detectable proxy. Zero-Configuration.
+  maintainers:
+    - kcubeterm@github
