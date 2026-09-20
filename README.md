@@ -4,7 +4,7 @@
 
 A cross-platform programmable network tool
 
-![brook](https://repo.x-cmd.io/brook.svg)
+[![x-cmd/install — brook Code Quality Monitoring Repo Card](https://repo.x-cmd.io/brook.svg)](https://x-cmd.com/install/brook)
 
 ## Install
 
@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 15,180 · **Forks**: 2,374 · **Open issues**: 1,006 · **Contributors**: 16
+- **Stars**: 15,183 · **Forks**: 2,374 · **Open issues**: 1,006 · **Contributors**: 16
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 1 | 0 | 0 | 0 | 1 | 3 |
-| last60d | 2026-07-20 | 1 | 0 | 0 | 0 | 1 | 3 |
-| 90d | 2026-06-20 | 1 | 0 | 0 | 0 | 1 | 3 |
-| last180d | 2026-03-22 | 1 | 0 | 0 | 0 | 2 | 3 |
-| 360d | 2025-09-23 | 2 | 3 | 2 | 4 | 5 | 13 |
-| last720d | 2024-09-28 | 4 | 3 | 2 | 16 | 9 | 45 |
+| 30d | 2026-08-21 | 1 | 0 | 0 | 0 | 1 | 3 |
+| last60d | 2026-07-22 | 1 | 0 | 0 | 0 | 1 | 3 |
+| 90d | 2026-06-22 | 1 | 0 | 0 | 0 | 1 | 3 |
+| last180d | 2026-03-24 | 1 | 0 | 0 | 0 | 2 | 3 |
+| 360d | 2025-09-25 | 2 | 3 | 2 | 4 | 5 | 13 |
+| last720d | 2024-09-30 | 4 | 3 | 2 | 16 | 9 | 45 |
 
 ## Release assets
 
@@ -117,4 +117,4 @@ Install metadata for brook lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T04:30:10Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T04:44:52Z._
