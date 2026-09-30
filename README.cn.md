@@ -26,13 +26,13 @@ x install brook
 
 ## OpenSSF Scorecard 评分
 
-总评分: **4.3 / 10**
+总评分: **4.5 / 10**
 
 评分最低的几项:
 
-- **Code-Review** (0/10) — Found 0/24 approved changesets -- score normalized to 0
 - **Packaging** (-1/10) — packaging workflow not detected
-- **Maintained** (3/10) — 3 commit(s) and 1 issue activity found in the last 90 days -- score normalized to 3
+- **Code-Review** (0/10) — Found 0/24 approved changesets -- score normalized to 0
+- **Pinned-Dependencies** (0/10) — dependency not pinned by hash detected -- score normalized to 0
 
 ## 源代码
 
@@ -48,7 +48,7 @@ x install brook
 
 ## 流行度
 
-- **Star**: 15,193 · **Fork**: 2,373 · **开放 issue**: 1,007 · **贡献者**: 16
+- **Star**: 15,192 · **Fork**: 2,373 · **开放 issue**: 1,007 · **贡献者**: 16
 
 ## 累计统计
 
@@ -58,12 +58,12 @@ x install brook
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-30 | 1 | 0 | 0 | 1 | 1 | 5 |
-| last60d | 2026-07-31 | 1 | 0 | 0 | 1 | 1 | 5 |
-| 90d | 2026-07-01 | 1 | 0 | 0 | 1 | 1 | 5 |
-| last180d | 2026-04-02 | 1 | 0 | 0 | 1 | 2 | 5 |
-| 360d | 2025-10-04 | 2 | 3 | 2 | 5 | 5 | 14 |
-| last720d | 2024-10-09 | 4 | 3 | 2 | 17 | 9 | 46 |
+| 30d | 2026-08-31 | 1 | 0 | 0 | 1 | 1 | 5 |
+| last60d | 2026-08-01 | 1 | 0 | 0 | 1 | 1 | 5 |
+| 90d | 2026-07-02 | 1 | 0 | 0 | 1 | 1 | 5 |
+| last180d | 2026-04-03 | 1 | 0 | 0 | 1 | 2 | 5 |
+| 360d | 2025-10-05 | 2 | 3 | 2 | 5 | 5 | 14 |
+| last720d | 2024-10-10 | 4 | 3 | 2 | 17 | 9 | 46 |
 
 ## Release 资产
 
@@ -117,4 +117,4 @@ brook 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260929.yml` · 2026-09-29T05:33:43Z._
+_数据快照: `data/card/260930.yml` · 2026-09-30T05:23:26Z._
