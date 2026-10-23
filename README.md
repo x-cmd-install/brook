@@ -26,12 +26,12 @@ Total: **9,906** lines of code across **76** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **5.6 / 10**
+Overall score: **4.5 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (0/10) — Found 0/24 approved changesets -- score normalized to 0
 - **Packaging** (-1/10) — packaging workflow not detected
+- **Code-Review** (0/10) — Found 0/24 approved changesets -- score normalized to 0
 - **Pinned-Dependencies** (0/10) — dependency not pinned by hash detected -- score normalized to 0
 
 ## Source
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v20270101` (2026-09-14)
-- **Last commit**: 2026-09-25
+- **Last commit**: 2026-10-23
 - **Assets in release**: 38
 
 ## Popularity
 
-- **Stars**: 15,189 · **Forks**: 2,364 · **Open issues**: 1,007 · **Contributors**: 16
+- **Stars**: 15,188 · **Forks**: 2,364 · **Open issues**: 1,007 · **Contributors**: 16
 
 ## Totals (cumulative)
 
-- **Releases**: 7 · **Merged PRs**: 22 · **Open PRs**: 2 · **Closed issues**: 985 · **Open issues**: 22 · **Commits**: 869
+- **Releases**: 7 · **Merged PRs**: 22 · **Open PRs**: 2 · **Closed issues**: 985 · **Open issues**: 22 · **Commits**: 870
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 0 | 0 | 0 | 1 | 1 | 2 |
-| last60d | 2026-08-23 | 1 | 0 | 0 | 1 | 2 | 5 |
-| 90d | 2026-07-24 | 1 | 0 | 0 | 1 | 2 | 5 |
-| last180d | 2026-04-25 | 1 | 0 | 0 | 1 | 3 | 5 |
-| 360d | 2025-10-27 | 2 | 3 | 2 | 5 | 6 | 14 |
-| last720d | 2024-11-01 | 4 | 3 | 2 | 17 | 9 | 45 |
+| 30d | 2026-09-23 | 0 | 0 | 0 | 1 | 1 | 3 |
+| last60d | 2026-08-24 | 1 | 0 | 0 | 1 | 2 | 6 |
+| 90d | 2026-07-25 | 1 | 0 | 0 | 1 | 2 | 6 |
+| last180d | 2026-04-26 | 1 | 0 | 0 | 1 | 3 | 6 |
+| 360d | 2025-10-28 | 2 | 3 | 2 | 5 | 6 | 15 |
+| last720d | 2024-11-02 | 4 | 3 | 2 | 17 | 9 | 46 |
 
 ## Release assets
 
@@ -108,6 +108,16 @@ Lowest-scoring checks:
 | [ipio_windows_amd64.exe](https://github.com/txthinking/brook/releases/download/v20270101/ipio_windows_amd64.exe) | 31.0 MiB | `native/win/x64` |
 | [ipio_windows_arm64.exe](https://github.com/txthinking/brook/releases/download/v20270101/ipio_windows_arm64.exe) | 29.0 MiB | `native/win/arm64` |
 
+## Distribution status
+
+Reported by **15** distros on [repology.org](https://repology.org/project/brook). **8** are ✅ on the latest upstream release, **6** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Arch | `20270101` | ✅ latest |
+| Homebrew | `20270101` | ✅ latest |
+| Nix unstable | `20270101` | ✅ latest |
+
 ## Improve this data
 
 Install metadata for brook lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `brook` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -117,4 +127,4 @@ Install metadata for brook lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261022.yml` · 2026-10-22T04:28:30Z._
+_Snapshot: `data/card/261023.yml` · 2026-10-23T04:33:25Z._
