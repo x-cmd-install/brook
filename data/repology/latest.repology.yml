@@ -1,25 +1,3 @@
-- repo: nix_stable_25_05
-  srcname: brook
-  visiblename: brook
-  version: "20240606"
-  origversion: null
-  status: outdated
-  summary: Cross-platform Proxy/VPN software
-  maintainers:
-    - xrelkd@github
-  licenses:
-    - GPL-3.0-only
-- repo: parabola
-  subrepo: extra
-  srcname: brook
-  binname: brook
-  visiblename: brook
-  version: "20270101"
-  origversion: 20270101-1
-  status: newest
-  summary: A cross-platform proxy/vpn software
-  licenses:
-    - GPL-3.0-only
 - repo: nix_stable_25_11
   srcname: brook
   visiblename: brook
@@ -31,16 +9,39 @@
     - xrelkd@github
   licenses:
     - GPL-3.0-only
-- repo: termux
+- repo: nix_stable_25_05
   srcname: brook
-  binname: brook
   visiblename: brook
-  version: "20270101"
+  version: "20240606"
   origversion: null
-  status: newest
-  summary: A cross-platform strong encryption and not detectable proxy. Zero-Configuration.
+  status: outdated
+  summary: Cross-platform Proxy/VPN software
   maintainers:
-    - kcubeterm@github
+    - xrelkd@github
+  licenses:
+    - GPL-3.0-only
+- repo: nix_stable_24_05
+  srcname: brook
+  visiblename: brook
+  version: "20240606"
+  origversion: null
+  status: outdated
+  summary: A cross-platform Proxy/VPN software
+  maintainers:
+    - xrelkd@github
+  licenses:
+    - GPL-3.0-only
+- repo: nix_stable_24_11
+  srcname: brook
+  visiblename: brook
+  version: "20240606"
+  origversion: null
+  status: outdated
+  summary: Cross-platform Proxy/VPN software
+  maintainers:
+    - xrelkd@github
+  licenses:
+    - GPL-3.0-only
 - repo: arch
   subrepo: extra
   srcname: brook
@@ -86,23 +87,23 @@
   srcname: brook
   binname: brook
   visiblename: brook
-  version: "20260101.0"
-  origversion: 20260101.0-1
+  version: "20221010"
+  origversion: 20221010-1
   status: outdated
   summary: A cross-platform proxy/vpn software
   licenses:
-    - GPL-3.0-only
+    - GPL
 - repo: manjaro_testing
   subrepo: extra
   srcname: brook
   binname: brook
   visiblename: brook
-  version: "20270101"
-  origversion: 20270101-1
-  status: newest
+  version: "20221010"
+  origversion: 20221010-1
+  status: outdated
   summary: A cross-platform proxy/vpn software
   licenses:
-    - GPL-3.0-only
+    - GPL
 - repo: manjaro_unstable
   subrepo: extra
   srcname: brook
@@ -112,28 +113,6 @@
   origversion: 20270101-1
   status: newest
   summary: A cross-platform proxy/vpn software
-  licenses:
-    - GPL-3.0-only
-- repo: nix_stable_24_05
-  srcname: brook
-  visiblename: brook
-  version: "20240606"
-  origversion: null
-  status: outdated
-  summary: A cross-platform Proxy/VPN software
-  maintainers:
-    - xrelkd@github
-  licenses:
-    - GPL-3.0-only
-- repo: nix_stable_24_11
-  srcname: brook
-  visiblename: brook
-  version: "20240606"
-  origversion: null
-  status: outdated
-  summary: Cross-platform Proxy/VPN software
-  maintainers:
-    - xrelkd@github
   licenses:
     - GPL-3.0-only
 - repo: nix_stable_26_05
@@ -158,3 +137,24 @@
     - xrelkd@github
   licenses:
     - GPL-3.0-only
+- repo: parabola
+  subrepo: extra
+  srcname: brook
+  binname: brook
+  visiblename: brook
+  version: "20270101"
+  origversion: 20270101-1
+  status: newest
+  summary: A cross-platform proxy/vpn software
+  licenses:
+    - GPL-3.0-only
+- repo: termux
+  srcname: brook
+  binname: brook
+  visiblename: brook
+  version: "20270101"
+  origversion: null
+  status: newest
+  summary: A cross-platform strong encryption and not detectable proxy. Zero-Configuration.
+  maintainers:
+    - kcubeterm@github
