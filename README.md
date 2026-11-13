@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 15,193 · **Forks**: 2,362 · **Open issues**: 1,007 · **Contributors**: 16
+- **Stars**: 15,193 · **Forks**: 2,363 · **Open issues**: 1,007 · **Contributors**: 16
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-13 | 0 | 0 | 0 | 0 | 1 | 4 |
-| last60d | 2026-09-13 | 1 | 0 | 0 | 1 | 2 | 6 |
-| 90d | 2026-08-14 | 1 | 0 | 0 | 1 | 2 | 9 |
-| last180d | 2026-05-16 | 1 | 0 | 0 | 1 | 2 | 9 |
-| 360d | 2025-11-17 | 2 | 3 | 2 | 4 | 6 | 18 |
-| last720d | 2024-11-22 | 4 | 3 | 2 | 17 | 9 | 47 |
+| 30d | 2026-10-14 | 0 | 0 | 0 | 0 | 1 | 4 |
+| last60d | 2026-09-14 | 1 | 0 | 0 | 1 | 2 | 6 |
+| 90d | 2026-08-15 | 1 | 0 | 0 | 1 | 2 | 9 |
+| last180d | 2026-05-17 | 1 | 0 | 0 | 1 | 2 | 9 |
+| 360d | 2025-11-18 | 2 | 3 | 2 | 4 | 6 | 18 |
+| last720d | 2024-11-23 | 4 | 3 | 2 | 17 | 9 | 47 |
 
 ## Release assets
 
@@ -127,4 +127,4 @@ Install metadata for brook lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261112.yml` · 2026-11-12T06:59:51Z._
+_Snapshot: `data/card/261113.yml` · 2026-11-13T06:24:06Z._
