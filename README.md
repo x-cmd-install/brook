@@ -43,7 +43,7 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v20270101` (2026-09-14)
-- **Last commit**: 2026-11-11
+- **Last commit**: 2026-11-13
 - **Assets in release**: 38
 
 ## Popularity
@@ -52,18 +52,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 7 · **Merged PRs**: 22 · **Open PRs**: 2 · **Closed issues**: 985 · **Open issues**: 22 · **Commits**: 873
+- **Releases**: 7 · **Merged PRs**: 22 · **Open PRs**: 2 · **Closed issues**: 985 · **Open issues**: 22 · **Commits**: 876
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-14 | 0 | 0 | 0 | 0 | 1 | 4 |
-| last60d | 2026-09-14 | 1 | 0 | 0 | 1 | 2 | 6 |
-| 90d | 2026-08-15 | 1 | 0 | 0 | 1 | 2 | 9 |
-| last180d | 2026-05-17 | 1 | 0 | 0 | 1 | 2 | 9 |
-| 360d | 2025-11-18 | 2 | 3 | 2 | 4 | 6 | 18 |
-| last720d | 2024-11-23 | 4 | 3 | 2 | 17 | 9 | 47 |
+| 30d | 2026-10-15 | 0 | 0 | 0 | 0 | 1 | 7 |
+| last60d | 2026-09-15 | 0 | 0 | 0 | 1 | 1 | 9 |
+| 90d | 2026-08-16 | 1 | 0 | 0 | 1 | 2 | 12 |
+| last180d | 2026-05-18 | 1 | 0 | 0 | 1 | 2 | 12 |
+| 360d | 2025-11-19 | 2 | 3 | 2 | 4 | 6 | 21 |
+| last720d | 2024-11-24 | 4 | 3 | 2 | 17 | 9 | 50 |
 
 ## Release assets
 
@@ -127,4 +127,4 @@ Install metadata for brook lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261113.yml` · 2026-11-13T06:24:06Z._
+_Snapshot: `data/card/261114.yml` · 2026-11-14T06:06:49Z._
