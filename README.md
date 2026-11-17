@@ -44,7 +44,7 @@ Lowest-scoring checks:
 
 - **Latest**: `v20270101` (2026-09-14)
 - **Last commit**: 2026-11-13
-- **Assets in release**: 38
+- **Assets in release**: 37
 
 ## Popularity
 
@@ -58,22 +58,27 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-17 | 0 | 0 | 0 | 0 | 1 | 7 |
-| last60d | 2026-09-17 | 0 | 0 | 0 | 1 | 1 | 9 |
-| 90d | 2026-08-18 | 1 | 0 | 0 | 1 | 2 | 12 |
-| last180d | 2026-05-20 | 1 | 0 | 0 | 1 | 2 | 12 |
-| 360d | 2025-11-21 | 2 | 3 | 2 | 4 | 6 | 21 |
-| last720d | 2024-11-26 | 4 | 3 | 2 | 17 | 9 | 50 |
+| 30d | 2026-10-18 | 0 | 0 | 0 | 0 | 1 | 7 |
+| last60d | 2026-09-18 | 0 | 0 | 0 | 1 | 1 | 9 |
+| 90d | 2026-08-19 | 1 | 0 | 0 | 1 | 2 | 12 |
+| last180d | 2026-05-21 | 1 | 0 | 0 | 1 | 2 | 12 |
+| 360d | 2025-11-22 | 2 | 3 | 2 | 4 | 6 | 21 |
+| last720d | 2024-11-27 | 4 | 3 | 2 | 17 | 9 | 50 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [Brook.apk](https://github.com/txthinking/brook/releases/download/v20270101/Brook.apk) | 148.6 MiB | `other` |
+| [brook.openwrt_linux_arm64](https://github.com/txthinking/brook/releases/download/v20270101/brook.openwrt_linux_arm64) | 27.4 MiB | `native/linux/arm64` |
+| [brook.openwrt_linux_amd64](https://github.com/txthinking/brook/releases/download/v20270101/brook.openwrt_linux_amd64) | 28.9 MiB | `native/linux/x64` |
 | [Brook.bin](https://github.com/txthinking/brook/releases/download/v20270101/Brook.bin) | 41.6 MiB | `other` |
 | [Brook.msix](https://github.com/txthinking/brook/releases/download/v20270101/Brook.msix) | 27.1 MiB | `other` |
-| [brook.openwrt_linux_amd64](https://github.com/txthinking/brook/releases/download/v20270101/brook.openwrt_linux_amd64) | 28.9 MiB | `native/linux/x64` |
-| [brook.openwrt_linux_arm64](https://github.com/txthinking/brook/releases/download/v20270101/brook.openwrt_linux_arm64) | 27.4 MiB | `native/linux/arm64` |
+| [ipio_linux_arm64](https://github.com/txthinking/brook/releases/download/v20270101/ipio_linux_arm64) | 28.2 MiB | `native/linux/arm64` |
+| [ipio_linux_amd64](https://github.com/txthinking/brook/releases/download/v20270101/ipio_linux_amd64) | 29.8 MiB | `native/linux/x64` |
+| [ipio_windows_arm64.exe](https://github.com/txthinking/brook/releases/download/v20270101/ipio_windows_arm64.exe) | 29.0 MiB | `native/win/arm64` |
+| [ipio_windows_amd64.exe](https://github.com/txthinking/brook/releases/download/v20270101/ipio_windows_amd64.exe) | 31.0 MiB | `native/win/x64` |
+| [ipio_darwin_arm64](https://github.com/txthinking/brook/releases/download/v20270101/ipio_darwin_arm64) | 28.9 MiB | `native/darwin/arm64` |
+| [ipio_darwin_amd64](https://github.com/txthinking/brook/releases/download/v20270101/ipio_darwin_amd64) | 30.4 MiB | `native/darwin/x64` |
 | [brook_darwin_amd64](https://github.com/txthinking/brook/releases/download/v20270101/brook_darwin_amd64) | 31.5 MiB | `native/darwin/x64` |
 | [brook_darwin_arm64](https://github.com/txthinking/brook/releases/download/v20270101/brook_darwin_arm64) | 29.7 MiB | `native/darwin/arm64` |
 | [brook_freebsd_amd64](https://github.com/txthinking/brook/releases/download/v20270101/brook_freebsd_amd64) | 30.7 MiB | `other` |
@@ -82,16 +87,16 @@ Lowest-scoring checks:
 | [brook_linux_amd64](https://github.com/txthinking/brook/releases/download/v20270101/brook_linux_amd64) | 30.8 MiB | `native/linux/x64` |
 | [brook_linux_arm5](https://github.com/txthinking/brook/releases/download/v20270101/brook_linux_arm5) | 29.6 MiB | `native/linux/arm` |
 | [brook_linux_arm6](https://github.com/txthinking/brook/releases/download/v20270101/brook_linux_arm6) | 29.5 MiB | `native/linux/arm` |
-| [brook_linux_arm64](https://github.com/txthinking/brook/releases/download/v20270101/brook_linux_arm64) | 28.8 MiB | `native/linux/arm64` |
 | [brook_linux_arm7](https://github.com/txthinking/brook/releases/download/v20270101/brook_linux_arm7) | 29.5 MiB | `native/linux/arm` |
+| [brook_linux_arm64](https://github.com/txthinking/brook/releases/download/v20270101/brook_linux_arm64) | 28.8 MiB | `native/linux/arm64` |
 | [brook_linux_mips](https://github.com/txthinking/brook/releases/download/v20270101/brook_linux_mips) | 33.4 MiB | `other` |
+| [brook_linux_mips_softfloat](https://github.com/txthinking/brook/releases/download/v20270101/brook_linux_mips_softfloat) | 33.4 MiB | `other` |
 | [brook_linux_mips64](https://github.com/txthinking/brook/releases/download/v20270101/brook_linux_mips64) | 34.0 MiB | `other` |
+| [brook_linux_mips64_softfloat](https://github.com/txthinking/brook/releases/download/v20270101/brook_linux_mips64_softfloat) | 34.0 MiB | `other` |
 | [brook_linux_mips64le](https://github.com/txthinking/brook/releases/download/v20270101/brook_linux_mips64le) | 33.5 MiB | `other` |
 | [brook_linux_mips64le_softfloat](https://github.com/txthinking/brook/releases/download/v20270101/brook_linux_mips64le_softfloat) | 33.5 MiB | `other` |
-| [brook_linux_mips64_softfloat](https://github.com/txthinking/brook/releases/download/v20270101/brook_linux_mips64_softfloat) | 34.0 MiB | `other` |
 | [brook_linux_mipsle](https://github.com/txthinking/brook/releases/download/v20270101/brook_linux_mipsle) | 32.8 MiB | `other` |
 | [brook_linux_mipsle_softfloat](https://github.com/txthinking/brook/releases/download/v20270101/brook_linux_mipsle_softfloat) | 32.9 MiB | `other` |
-| [brook_linux_mips_softfloat](https://github.com/txthinking/brook/releases/download/v20270101/brook_linux_mips_softfloat) | 33.4 MiB | `other` |
 | [brook_linux_ppc64](https://github.com/txthinking/brook/releases/download/v20270101/brook_linux_ppc64) | 30.6 MiB | `other` |
 | [brook_linux_ppc64le](https://github.com/txthinking/brook/releases/download/v20270101/brook_linux_ppc64le) | 30.2 MiB | `other` |
 | [brook_netbsd_amd64](https://github.com/txthinking/brook/releases/download/v20270101/brook_netbsd_amd64) | 30.6 MiB | `other` |
@@ -101,12 +106,6 @@ Lowest-scoring checks:
 | [brook_windows_386.exe](https://github.com/txthinking/brook/releases/download/v20270101/brook_windows_386.exe) | 30.1 MiB | `native/win/x64` |
 | [brook_windows_amd64.exe](https://github.com/txthinking/brook/releases/download/v20270101/brook_windows_amd64.exe) | 31.4 MiB | `native/win/x64` |
 | [brook_windows_arm64.exe](https://github.com/txthinking/brook/releases/download/v20270101/brook_windows_arm64.exe) | 29.0 MiB | `native/win/arm64` |
-| [ipio_darwin_amd64](https://github.com/txthinking/brook/releases/download/v20270101/ipio_darwin_amd64) | 30.4 MiB | `native/darwin/x64` |
-| [ipio_darwin_arm64](https://github.com/txthinking/brook/releases/download/v20270101/ipio_darwin_arm64) | 28.9 MiB | `native/darwin/arm64` |
-| [ipio_linux_amd64](https://github.com/txthinking/brook/releases/download/v20270101/ipio_linux_amd64) | 29.8 MiB | `native/linux/x64` |
-| [ipio_linux_arm64](https://github.com/txthinking/brook/releases/download/v20270101/ipio_linux_arm64) | 28.2 MiB | `native/linux/arm64` |
-| [ipio_windows_amd64.exe](https://github.com/txthinking/brook/releases/download/v20270101/ipio_windows_amd64.exe) | 31.0 MiB | `native/win/x64` |
-| [ipio_windows_arm64.exe](https://github.com/txthinking/brook/releases/download/v20270101/ipio_windows_arm64.exe) | 29.0 MiB | `native/win/arm64` |
 
 ## Distribution status
 
@@ -127,4 +126,4 @@ Install metadata for brook lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261116.yml` · 2026-11-16T06:08:55Z._
+_Snapshot: `data/card/261117.yml` · 2026-11-17T07:45:37Z._
