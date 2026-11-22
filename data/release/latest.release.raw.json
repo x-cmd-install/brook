@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 150474019,
       "digest": "sha256:73f337fb9947767c8d33d363f2fc942188f3f05d26270f2977dc8f28abe1d602",
-      "download_count": 111,
+      "download_count": 279,
       "created_at": "2026-11-17T07:44:06Z",
       "updated_at": "2026-11-17T07:46:45Z",
       "browser_download_url": "https://github.com/txthinking/brook/releases/download/v20270101/Brook.apk"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 43671736,
       "digest": "sha256:fe6252eb1382003a6a6781e8eb5c2f6f4e246d8426d3a0aa793b540a1de84763",
-      "download_count": 573,
+      "download_count": 579,
       "created_at": "2026-09-14T04:51:06Z",
       "updated_at": "2026-09-14T04:51:29Z",
       "browser_download_url": "https://github.com/txthinking/brook/releases/download/v20270101/Brook.bin"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 28369046,
       "digest": "sha256:a46b837bb3bab17bb084965346f872f0b413e790d201d469bfef456b3f804c64",
-      "download_count": 656,
+      "download_count": 666,
       "created_at": "2026-10-01T09:08:56Z",
       "updated_at": "2026-10-01T09:09:24Z",
       "browser_download_url": "https://github.com/txthinking/brook/releases/download/v20270101/Brook.msix"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 30355640,
       "digest": "sha256:d9b7adfd765efa80d39bfffc8786b7745c95e3f6aa30255f374064529b6e7f31",
-      "download_count": 1496,
+      "download_count": 1517,
       "created_at": "2026-09-14T04:41:39Z",
       "updated_at": "2026-09-14T04:41:54Z",
       "browser_download_url": "https://github.com/txthinking/brook/releases/download/v20270101/brook.openwrt_linux_amd64"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 28770488,
       "digest": "sha256:d8661a0e8b1feb1faa1a4a0ef0b19bb975df571b6a70010b043bc83632159d02",
-      "download_count": 2053,
+      "download_count": 2073,
       "created_at": "2026-09-14T04:41:22Z",
       "updated_at": "2026-09-14T04:41:39Z",
       "browser_download_url": "https://github.com/txthinking/brook/releases/download/v20270101/brook.openwrt_linux_arm64"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 33057664,
       "digest": "sha256:fa857d9f6df1a3600de24322ea196f66b8e9610057014bc2228e3e8e5a13d8bc",
-      "download_count": 67,
+      "download_count": 68,
       "created_at": "2026-11-07T03:34:27Z",
       "updated_at": "2026-11-07T03:35:04Z",
       "browser_download_url": "https://github.com/txthinking/brook/releases/download/v20270101/brook_darwin_amd64"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 31094402,
       "digest": "sha256:899de1b5c5c70f750177b856589105690e6811c174de1996127fa34b7a8e48be",
-      "download_count": 75,
+      "download_count": 78,
       "created_at": "2026-11-07T03:35:04Z",
       "updated_at": "2026-11-07T03:35:37Z",
       "browser_download_url": "https://github.com/txthinking/brook/releases/download/v20270101/brook_darwin_arm64"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 30867616,
       "digest": "sha256:8fad26a2286bf821ddb60239adb865f7eb97f1229d6e63ee771c64c4b87620e3",
-      "download_count": 51,
+      "download_count": 54,
       "created_at": "2026-11-07T03:36:44Z",
       "updated_at": "2026-11-07T03:37:17Z",
       "browser_download_url": "https://github.com/txthinking/brook/releases/download/v20270101/brook_linux_386"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 32305312,
       "digest": "sha256:f8fbef10e740334a21d7b0c020594210d9b0c47b2bf13c3056793107e0de1344",
-      "download_count": 1072,
+      "download_count": 1107,
       "created_at": "2026-11-07T03:37:17Z",
       "updated_at": "2026-11-07T03:37:52Z",
       "browser_download_url": "https://github.com/txthinking/brook/releases/download/v20270101/brook_linux_amd64"
@@ -463,7 +463,7 @@
       "state": "uploaded",
       "size": 31064224,
       "digest": "sha256:2c83dad3e52e7dead3fb42c3b9142212fae7a92ad61a841ec5d92d5dee52d1be",
-      "download_count": 43,
+      "download_count": 44,
       "created_at": "2026-11-07T03:37:52Z",
       "updated_at": "2026-11-07T03:38:26Z",
       "browser_download_url": "https://github.com/txthinking/brook/releases/download/v20270101/brook_linux_arm5"
@@ -535,7 +535,7 @@
       "state": "uploaded",
       "size": 30212256,
       "digest": "sha256:5c631bcae7a0fbb52e084df508561f3f38f8c5c476506737eb12d4d435e4c15e",
-      "download_count": 50,
+      "download_count": 51,
       "created_at": "2026-11-07T03:39:32Z",
       "updated_at": "2026-11-07T03:40:04Z",
       "browser_download_url": "https://github.com/txthinking/brook/releases/download/v20270101/brook_linux_arm64"
@@ -859,7 +859,7 @@
       "state": "uploaded",
       "size": 35061951,
       "digest": "sha256:2e929b05125c7a3dada082fbc07763aae336673811518235da0445f186b8135d",
-      "download_count": 32,
+      "download_count": 33,
       "created_at": "2026-11-07T03:40:42Z",
       "updated_at": "2026-11-07T03:41:19Z",
       "browser_download_url": "https://github.com/txthinking/brook/releases/download/v20270101/brook_linux_mips_softfloat"
@@ -1111,7 +1111,7 @@
       "state": "uploaded",
       "size": 31521280,
       "digest": "sha256:f45ef5b7cffb57551db9c42fae03165c67ab3994a26dc47f3b5d558e641f3e58",
-      "download_count": 101,
+      "download_count": 109,
       "created_at": "2026-11-07T03:48:26Z",
       "updated_at": "2026-11-07T03:49:00Z",
       "browser_download_url": "https://github.com/txthinking/brook/releases/download/v20270101/brook_windows_386.exe"
@@ -1147,7 +1147,7 @@
       "state": "uploaded",
       "size": 32956928,
       "digest": "sha256:21bbf4b29c3fdcf7d751a319b278b4b6155151a5cf3eef699105d6f3b41a7e29",
-      "download_count": 223,
+      "download_count": 230,
       "created_at": "2026-11-07T03:49:00Z",
       "updated_at": "2026-11-07T03:49:35Z",
       "browser_download_url": "https://github.com/txthinking/brook/releases/download/v20270101/brook_windows_amd64.exe"
