@@ -14,13 +14,13 @@ x install brook
 
 ## Code insight
 
-Total: **9,906** lines of code across **76** files in the top 5 languages.
+Total: **9,899** lines of code across **76** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | Go | 9,117 | 792 | 483 | 63 |
 | Css | 336 | 1 | 2 | 2 |
-| Json | 234 | 0 | 0 | 2 |
+| Json | 227 | 0 | 0 | 2 |
 | Html | 123 | 0 | 5 | 1 |
 | JavaScript | 96 | 12 | 12 | 8 |
 
@@ -43,7 +43,7 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v20270101` (2026-09-14)
-- **Last commit**: 2026-11-18
+- **Last commit**: 2026-11-25
 - **Assets in release**: 38
 
 ## Popularity
@@ -52,18 +52,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 7 · **Merged PRs**: 22 · **Open PRs**: 2 · **Closed issues**: 985 · **Open issues**: 22 · **Commits**: 877
+- **Releases**: 7 · **Merged PRs**: 22 · **Open PRs**: 2 · **Closed issues**: 985 · **Open issues**: 22 · **Commits**: 879
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-26 | 0 | 0 | 0 | 0 | 0 | 7 |
-| last60d | 2026-09-26 | 0 | 0 | 0 | 1 | 1 | 8 |
-| 90d | 2026-08-27 | 1 | 0 | 0 | 1 | 2 | 13 |
-| last180d | 2026-05-29 | 1 | 0 | 0 | 1 | 2 | 13 |
-| 360d | 2025-11-30 | 2 | 3 | 2 | 3 | 6 | 21 |
-| last720d | 2024-12-05 | 4 | 3 | 2 | 17 | 9 | 51 |
+| 30d | 2026-10-27 | 0 | 0 | 0 | 0 | 0 | 9 |
+| last60d | 2026-09-27 | 0 | 0 | 0 | 0 | 1 | 10 |
+| 90d | 2026-08-28 | 1 | 0 | 0 | 1 | 2 | 15 |
+| last180d | 2026-05-30 | 1 | 0 | 0 | 1 | 2 | 15 |
+| 360d | 2025-12-01 | 2 | 3 | 2 | 2 | 6 | 23 |
+| last720d | 2024-12-06 | 4 | 3 | 2 | 17 | 9 | 53 |
 
 ## Release assets
 
@@ -108,16 +108,6 @@ Lowest-scoring checks:
 | [ipio_windows_amd64.exe](https://github.com/txthinking/brook/releases/download/v20270101/ipio_windows_amd64.exe) | 31.0 MiB | `native/win/x64` |
 | [ipio_windows_arm64.exe](https://github.com/txthinking/brook/releases/download/v20270101/ipio_windows_arm64.exe) | 29.0 MiB | `native/win/arm64` |
 
-## Distribution status
-
-Reported by **15** distros on [repology.org](https://repology.org/project/brook). **9** are ✅ on the latest upstream release, **5** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Arch | `20270101` | ✅ latest |
-| Homebrew | `20270101` | ✅ latest |
-| Nix unstable | `20270101` | ✅ latest |
-
 ## Improve this data
 
 Install metadata for brook lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `brook` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -127,4 +117,4 @@ Install metadata for brook lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261125.yml` · 2026-11-25T08:13:45Z._
+_Snapshot: `data/card/261126.yml` · 2026-11-26T08:04:14Z._
