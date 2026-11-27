@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 15,200 · **Forks**: 2,363 · **Open issues**: 1,007 · **Contributors**: 16
+- **Stars**: 15,203 · **Forks**: 2,363 · **Open issues**: 1,007 · **Contributors**: 16
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-27 | 0 | 0 | 0 | 0 | 0 | 9 |
-| last60d | 2026-09-27 | 0 | 0 | 0 | 0 | 1 | 10 |
-| 90d | 2026-08-28 | 1 | 0 | 0 | 1 | 2 | 15 |
-| last180d | 2026-05-30 | 1 | 0 | 0 | 1 | 2 | 15 |
-| 360d | 2025-12-01 | 2 | 3 | 2 | 2 | 6 | 23 |
-| last720d | 2024-12-06 | 4 | 3 | 2 | 17 | 9 | 53 |
+| 30d | 2026-10-28 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-28 | 0 | 0 | 0 | 0 | 1 | 0 |
+| 90d | 2026-08-29 | 1 | 0 | 0 | 1 | 2 | 0 |
+| last180d | 2026-05-31 | 1 | 0 | 0 | 1 | 2 | 0 |
+| 360d | 2025-12-02 | 2 | 3 | 2 | 2 | 6 | 0 |
+| last720d | 2024-12-07 | 4 | 3 | 2 | 17 | 9 | 53 |
 
 ## Release assets
 
@@ -108,6 +108,16 @@ Lowest-scoring checks:
 | [ipio_windows_amd64.exe](https://github.com/txthinking/brook/releases/download/v20270101/ipio_windows_amd64.exe) | 31.0 MiB | `native/win/x64` |
 | [ipio_windows_arm64.exe](https://github.com/txthinking/brook/releases/download/v20270101/ipio_windows_arm64.exe) | 29.0 MiB | `native/win/arm64` |
 
+## Distribution status
+
+Reported by **15** distros on [repology.org](https://repology.org/project/brook). **9** are ✅ on the latest upstream release, **5** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Arch | `20270101` | ✅ latest |
+| Homebrew | `20270101` | ✅ latest |
+| Nix unstable | `20270101` | ✅ latest |
+
 ## Improve this data
 
 Install metadata for brook lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `brook` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -117,4 +127,4 @@ Install metadata for brook lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261126.yml` · 2026-11-26T08:04:14Z._
+_Snapshot: `data/card/261127.yml` · 2026-11-27T08:10:06Z._
